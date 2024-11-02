@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nabeel Zafar - MBU Lead - Technology, DH-SHL</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .header {
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
+                        repeating-linear-gradient(45deg, #444 0%, #444 10%, #333 10%, #333 20%);
+            color: white;
+            text-align: center;
+            padding: 100px 20px;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+
+        .header p {
+            font-size: 1.2em;
+        }
+
+        nav {
+            background: #2c3e50;
+            padding: 1rem;
+            position: sticky;
+            top: 0;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav ul li a:hover {
+            color: #3498db;
+        }
+
+        section {
+            padding: 50px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h2 {
+            color: #2c3e50;
+            margin-bottom: 30px;
+        }
+
+        .skills {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .skill-card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .experience-item {
+            margin-bottom: 30px;
+        }
+
+        .experience-item h3 {
+            color: #2c3e50;
+        }
+
+        .experience-item .date {
+            color: #666;
+            font-style: italic;
+        }
+
+        .contact-info {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 50px;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            nav ul {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            nav ul li {
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>Nabeel Zafar</h1>
+        <p>MBU Lead</p>
+        <p>Technology, DH-SHL</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a telecom professional who looks after Access Network Operations of 200 Cell Sites of JAZZ Central-6 region in line with business goals and company strategy and assists the Zonal Manager on assigned Regional Projects.My main tasks include Customer Complaints handling (Corporate & Commercial), Vendor Performance Management for Access Network Operations and all KPI targets achievements against the Micro Business Unit including TCH, DCR, CSSR, Fuel and Network Availability.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <div class="skills">
+            <div class="skill-card">
+                <h3>Network Technologies</h3>
+                <ul>
+                    <li>GSM/3G/LTE Architecture</li>
+                    <li>Expertise in BSS and TXN Operations</li>
+                    <li>AC & DC, Rectifiers and RMS troubleshooting</li>
+                    <li>Expertise in power infrastructure on BTS Cell Sites</li>
+                    <li>Basic knowledge of RF Optimization</li>
+                </ul>
+            </div>
+            <div class="skill-card">
+                <h3>Tools & Software</h3>
+                <ul>
+                    <li>ZTE LMT</li>
+                    <li>Ericsson MiniLink Craft</li>
+                    <li>Huawei Weblct U2000 </li>
+                    <li>Network Simulation Tools</li>
+                </ul>
+            </div>
+            <div class="skill-card">
+                <h3>Key Competencies</h3>
+                <ul>
+                    <li>Network Troubleshooting</li>
+                    <li>Project Management</li>
+                    <li>Team Leadership</li>
+                    <li>Technical Documentation</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <div class="experience-item">
+            <h3>MBU Lead (JAZZ) </h3>
+            <p class="date">06/2017 - Present</p>
+            <p>Managing team of engineers for network maintenance and upgrades.
+            <p>Main tasks include Customer Complaints handling (Corporate & Commercial).</p>
+            <p>Vendor Performance Management for Access Network Operations and all KPI targets achievements against the assigned MBU including TCH, DCR, CSSR, Fuel and Network Availability.</p>
+        </div>
+        <div class="experience-item">
+            <h3>Senior Team Leader(Huawei) </h3>
+            <p class="date">11/2016 - 06/2017</p>
+            <p>Responsible for Telco and Non Telco PM of more than 1400 sites with 22 teams , ensuring BSS TXN and DC Power expertise of field teams through trainings of ZTE BTS, Minlink TN and Rectfiers(Delta+Emerson).</p>
+            <p>Responsible of preparation, getting approval and implementation of Telco and Non-Telco Preventive Maintenance (PM) plan and monitor on daily basis.</p>
+            <p>To ensure that PM plan should be submitted as per agreed timeline and consumable should be available at Subcontractor warehouse as per required quantity and timely.</p>
+            <p>Preventive maintenance cycle completion as per schedule and Quality PM ensurance through supervised PM and as per Customer satisfaction.</p>
+            <p>Monitoring External Alarms through OSS and Cross verification with PM Portal report of NOC.</p>
+            <p>Sharing TXN alarms with PM teams and getting those rectified during PM  To ensure the submission of PM Activity Report on daily basis along with before and after snaps and log files as per agreed format and timeline.</p>
+            <p>To ensure that during PM, all Site alarms must be checked and cleared  To monitor GNR/GCR cases on daily basis and justify the unsuccessful PM during PM cycle.</p>
+            <p>To ensure the availability of consumable and spare/parts as per requirement and previous usage trend in the Subcontractor warehouse and ensure the quality and geniuses of parts.</p>
+            <p>Check the quality of consumable and parts used during PM/CM activity.  Arranging weekly meeting with Customer and Subcontractors and shared Minutes of Meeting with line manager.</p>
+            <p>Check Expertise level of Subcontractor teams and arrange trainings to enhance the expertise level to provide quality services as per Customer satisfaction.</p>
+        </div>
+        <div class="experience-item">
+            <h3>TXN Expert(PMCL-Mobilink)</h3>
+            <p class="date">07/2015 - 10/2016</p>
+            <p>Provide support to resolve BSS and TXN related issues.</p>
+            <p>Follow up with vendor for Network availability above 99.5% against assigned area and for TCH availability above 99% against assigned area.</p>
+            <p>Follow up for RF, QoS TTs and resolution within SLA against assigned area.</p>
+            <p>Follow up with RF &amp; Planning team so that KPIs (CSSR, DCR &amp; TCH blocking) are according to set values.</p>
+        </div>
+        <div class="experience-item">
+            <h3>Implementation Supervisor RAN (Ericsson Pakistan Pvt Ltd)</h3>
+            <p class="date">12/2013 - 03/2015</p>
+            <p>Installation, Commission &amp; Maintenance of Ericsson Radio Base Station RBS 6000 Series (RBS 6201, 6102, 6101, 6301).</p>
+            <p>Service On (EM) DCN implementation and Integration of NEs. • Microwave Network Design implementation, including Link Budgeting and Frequency planning.</p>
+            <p>Nominal Transmission (Traffic, Capacity, Topology and Media Planning) and MUX Planning (end to end E1 routing) for 11GHz, 18Ghz, 23GHz and 38GHz Links, Traffic Node 20p, 6p and 2p. </p>
+            <p>Upgrading of latest release of Software for Traffic Node.</p>
+            <p>Integration of sites using OMT. Trouble shooting of RBS faults. Replacement of faulty hardware modules of 2G Nodes RBS.</p>
+            <p>Responsible reconfiguring of 2G RBS.</p>
+            <p>Performed RUG/RUS/ DTRU/DRU/TRU upgrade and downgrade of 2G Cabinets as per network requirement. </p>
+            <p>Sweep Test using ANRITSU site Master. Defining External Alarms.</p>
+            <p>Managing and supervising ASPs to ensure the installation quality and finishing target line.</p>
+            <p>Escalating site installation issues directly to customer and resolve those to meet the target line.</p>
+        </div>
+        <div class="experience-item">
+            <h3>Engineer OAN Integration Support (PMCL-Mobilink)</h3>
+            <p class="date">09/2008 - 12/2013</p>
+            <p>The main responsibility is to provide BSS/TXN/ENV Back-Office support and Performance related activities. Hands on expertise of troubleshooting the down Alcatel-Lucent BSS entities(BSC/BTS/MFS/TC).</p>
+            <p>Troubleshoot system problems such as Handover failure, Poor originations, Frequency-related issues, and Interference. Identify causes of RF interference, make recommendations and provide solutions for reducing interference.</p>
+            <p> Analyzing the Network Key Performance Indicators (KPI's) and reduce Drop calls and resolving Ineffective attempts trouble tickets raised by QoS.</p>
+            <p>Coordination with vendors to minimize MTTR. Develop relevant applicable solutions / reports to overcome identified network deficiencies.</p>
+            <p>Coordination with OAN/NOC/QoS nationwide teams and providing a regional update on recent HW implementation and rectification.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Information</h2>
+        <div class="contact-info">
+            <p><strong>Email:</strong> nabeel.z@msn.com</p>
+            <p><strong>Phone:</strong> +92-301-639333</p>
+            <p><strong>LinkedIn:</strong> https://www.linkedin.com/in/nabeel-j14561</p>
+            <p><strong>Location:</strong> Burewala Punjab, Pakistan</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Nabeel Zafar. All rights reserved.</p>
+    </footer>
+</body>
+</html>
