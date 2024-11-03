@@ -21,8 +21,9 @@ Work Experience
 __MBU Lead__
 JAZZ-(Leading telecom Company of Pakistan)
 06/2017 - Present
-Burewala-Punjab
-Achievements/Tasks
+Burewala-Punjab <Br/>
+<Br/>
+<b>Achievements/Tasks<b/>
 - <!--StartFragment--> <i>Main tasks include Customer Complaints handling (Corporate &amp; Commercial), Vendor Performance Management for Access Network Operations and all KPI targets achievements against the assigned MBU including TCH, DCR, CSSR, Fuel and Network Availability.</i> <!--EndFragment--> 
 
 
@@ -30,8 +31,9 @@ Achievements/Tasks
 __Senior Team Leader__
 Huawei
 11/2016 - 06/2017
-Sahiwal-Punjab
-Achievements/Tasks
+Sahiwal-Punjab <Br/>
+<Br/>
+<b>Achievements/Tasks<b/>
 - <!--StartFragment-->  Responsible for Telco and Non Telco PM of more than 1400 sites with 22 teams , ensuring BSS TXN and DC Power expertise of field teams through trainings of ZTE BTS, Minlink TN and Rectfiers(Delta+Emerson).<!--EndFragment--> 
 - <!--StartFragment-->  Responsible of preparation, getting approval and implementation of Telco and Non-Telco Preventive Maintenance (PM) plan and monitor on daily basis. <!--EndFragment--> 
 - To ensure that PM plan should be submitted as per agreed timeline and consumable should be available at Subcontractor warehouse as per required quantity and timely. <!--EndFragment--> 
@@ -48,8 +50,8 @@ Achievements/Tasks
 __TXN Expert__
 PMCL-Mobilink
 07/2015 - 10/2016
-Burewala-Punjab
-Achievements/Tasks
+Burewala-Punjab<Br/><Br/>
+<b>Achievements/Tasks<b/>
 - Provide support to resolve BSS and TXN related issues. <!--EndFragment--> 
 - <!--StartFragment--> Follow up with vendor for Network availability above 99.5% against assigned area and for TCH availability above 99% against assigned area.  <!--EndFragment--> 
 - Follow up for RF, QoS TTs and resolution within SLA against assigned area. <!--EndFragment--> 
@@ -60,8 +62,8 @@ Achievements/Tasks
 __Implementation Supervisor RAN__
 Ericsson Pakistan Pvt Ltd.
 12/2013 - 03/2015
-Karachi-Sindh
-Achievements/Tasks
+Karachi-Sindh<Br/><Br/>
+<b>Achievements/Tasks<b/>
 - <!--StartFragment-->  Installation, Commission &amp; Maintenance of Ericsson Radio Base Station RBS 6000 Series (RBS 6201, 6102, 6101, 6301). <!--EndFragment--> 
 - Service On (EM) DCN implementation and Integration of NEs. • Microwave Network Design implementation, including Link Budgeting and Frequency planning. <!--EndFragment--> 
 - Nominal Transmission (Traffic, Capacity, Topology and Media Planning) and MUX Planning (end to end E1 routing) for 11GHz, 18Ghz, 23GHz and 38GHz Links, Traffic Node 20p, 6p and 2p .<!--EndFragment--> 
@@ -78,8 +80,8 @@ Achievements/Tasks
 __Engineer OAN Integration Support__
 PMCL-Mobilink
 09/2008 - 12/2013
-Faisalabad-Punjab
-Achievements/Tasks
+Faisalabad-Punjab<Br/><Br/>
+<b>Achievements/Tasks<b/>
 - <!--StartFragment--> The main responsibility is to provide BSS/TXN/ENV Back-Office support and Performance related activities. Hands on expertise of troubleshooting the down Alcatel-Lucent BSS entities(BSC/BTS/MFS/TC).<!--EndFragment--> 
 - <!--StartFragment--> Troubleshoot system problems such as Handover failure, Poor originations, Frequency-related issues, and Interference. Identify causes of RF interference, make recommendations and provide solutions for reducing interference. <!--EndFragment--> 
 - <!--StartFragment--> Analyzing the Network Key Performance Indicators (KPI's) and reduce Drop calls and resolving Ineffective attempts trouble tickets raised by QoS.  <!--EndFragment--> 
