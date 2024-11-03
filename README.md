@@ -9,17 +9,13 @@ https://www.linkedin.com/in/nabeel-zafar-b4658835/
 
 
 ------------------------
-## MBU Lead
-
+## MBU Lead (Experienced Telecom Engineer)
 
 ------------------------
-Experienced Telecom Engineer
-
 
 Work Experience
 ------------------------
-__MBU Lead__
-JAZZ-(Leading telecom Company of Pakistan)
+### __MBU Lead JAZZ__-(Leading telecom Company of Pakistan)
 06/2017 - Present
 Burewala-Punjab <Br/>
 <Br/>
@@ -28,7 +24,7 @@ Burewala-Punjab <Br/>
 
 
 
-__Senior Team Leader__
+### __Senior Team Leader__
 Huawei
 11/2016 - 06/2017
 Sahiwal-Punjab <Br/>
@@ -47,7 +43,7 @@ Sahiwal-Punjab <Br/>
 
 
 
-__TXN Expert__
+### __TXN Expert__
 PMCL-Mobilink
 07/2015 - 10/2016
 Burewala-Punjab<Br/><Br/>
@@ -59,7 +55,7 @@ Burewala-Punjab<Br/><Br/>
 
 
 
-__Implementation Supervisor RAN__
+### __Implementation Supervisor RAN__
 Ericsson Pakistan Pvt Ltd.
 12/2013 - 03/2015
 Karachi-Sindh<Br/><Br/>
@@ -77,7 +73,7 @@ Karachi-Sindh<Br/><Br/>
 
 
 
-__Engineer OAN Integration Support__
+### __Engineer OAN Integration Support__
 PMCL-Mobilink
 09/2008 - 12/2013
 Faisalabad-Punjab<Br/><Br/>
