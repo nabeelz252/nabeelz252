@@ -90,20 +90,6 @@ Faisalabad-Punjab<Br/><Br/>
 
 
 
-
-
-
-Volunteer Experience
-------------------------
-Title/Position
-Organization
-Tasks/Achievements
-
-
-
-
-
-
 Honor Awards
 ------------------------
 Top MBU Performer 2018-Q1
@@ -116,13 +102,6 @@ JAZZ
 2024
 
 
-Title/Award Name
-Name of the institution that issued/awarded it
-
-
-
-
-
 Skills
 ------------------------
 -Microsoft Excel
@@ -131,15 +110,16 @@ Skills
 -CSS
 -Javascript
 -Python
--z
+-Django
 
 
 
-Personal Projects
+Projects
 ------------------------
-Project Name
-
-
+Treat Bakers to Zia-Town MSC shifting project.
+Jazz Alcatel to Ericsson Swap project.
+Jazz Ericsson to ZTE Swap project.
+Jazz-Warid Merger Project.
 
 
 
@@ -149,7 +129,7 @@ Study Program
 Islamia University Bahawalpur
 09/2003 - 12/2007
 Bahawalpur-Punjab
-Courses
+
 - BSC Electronics Engg. 
 
 
@@ -158,7 +138,7 @@ Courses
 
 Achievements
 ------------------------
-Achievement Name
+Champions promo winner Q2,Q3 and Q4 of year 2024
 
 
 
