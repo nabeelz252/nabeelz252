@@ -4,7 +4,7 @@
 nabeel.z@msn.com
 03016393333
 House No. 122 K- Block Burewala, Burewala, Pakistan'
-https://www.linkedin.com/in/nabeel-zafar-b4658835/
+https://www.linkedin.com/in/nabeel-zafar-j14561/
 
 
 
